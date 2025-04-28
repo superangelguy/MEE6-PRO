@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/discord/your_server_id?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/support)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/mee6-pro?style=social)](https://github.com/superangelguy/mee6-pro)
+[![Stars](https://img.shields.io/github/stars/yourusername/mee6-pro?style=social)](https://github.com/superangelguy/MEE6-PRO)
 
 A powerful, free, and open-source Discord bot inspired by MEE6, featuring leveling, moderation, custom commands, reaction roles, and more—all with beautiful embeds and interactive buttons.
 
