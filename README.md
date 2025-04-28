@@ -1,6 +1,6 @@
 # Mee6 Pro (Free & Open Source)
 
-[![Discord](https://discord.com/api/guilds/1365195060693434461/widget.json)]([https://discord.gg/v4XzFBRs4k])
+[![Discord](<iframe src="https://discord.com/widget?id=1365195060693434461&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>)]([https://discord.gg/v4XzFBRs4k])
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/yourusername/mee6-pro?style=social)](https://github.com/superangelguy/Mee6-Pro)
