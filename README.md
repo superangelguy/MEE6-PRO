@@ -83,6 +83,15 @@ Make sure your bot has the following permissions:
 - Inspired by [MEE6](https://mee6.xyz)
 - Developed by superangelguy
 
+## 💖 Support the Project
+
+If you find this bot useful and would like to support its development, consider making a donation:
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Donate-ff5e5b?logo=kofi&logoColor=white)](https://ko-fi.com/superangelguy)
+
+Your support helps maintain and improve the bot, ensuring it remains free and accessible to everyone!
+
+
 ---
 
 **Enjoy your free, powerful Discord bot!** 
